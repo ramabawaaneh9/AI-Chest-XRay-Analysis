@@ -194,17 +194,8 @@ Total
 
 The final distribution is not fully balanced because the downsampling rule applies only to Normal and Lung_Opacity.
 
-Preprocessing Visualization:
+<img width="405" height="203" alt="image" src="https://github.com/user-attachments/assets/57cbe272-985e-4c15-a450-027369deff7e" />
 
-      Final Dataset (≈None images)     
-┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━┓
-┃ Class           ┃ Number of Images ┃
-┡━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━┩
-│ Lung_Opacity    │             3000 │
-│ Normal          │             3000 │
-│ Viral Pneumonia │             1345 │
-│ COVID           │             3616 │
-└─────────────────┴──────────────────┘
 
 Total images: 10961
 
@@ -624,7 +615,8 @@ The examples include correct and incorrect predictions selected using ResNet18 a
 
 correct example:
 
-<img width="1892" height="1076" alt="image" src="https://github.com/user-attachments/assets/b2cb57de-9901-4d98-ab05-3360aee29e02" />
+<img width="1892" height="1076" alt="image" src="https://github.com/user-attachments/assets/358db57f-cc67-42f9-b259-257bfb3d84e7" />
+
 
 incorrect example:
 
