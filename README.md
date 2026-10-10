@@ -197,6 +197,7 @@ The final distribution is not fully balanced because the downsampling rule appli
 <img width="405" height="203" alt="image" src="https://github.com/user-attachments/assets/57cbe272-985e-4c15-a450-027369deff7e" />
 
 
+
 2. U-Net Lung Segmentation
 
 Objective:
